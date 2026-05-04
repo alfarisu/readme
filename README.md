@@ -92,9 +92,9 @@ Machine learning project analyzing Indonesian public service reviews using TF-ID
 
 ## 🔗 Connect With Me
 
-- GitHub → https://github.com/risuunava  
-- Portfolio → https://bit.ly/4lTYVZd  
-- Google Skills → https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490  
+[![GitHub](https://img.shields.io/badge/GitHub-risuunava-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/risuunava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=globe&logoColor=white)](https://bit.ly/4lTYVZd)
+[![Google%20Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
 **Open for:** Collaboration • Freelance Projects • Full-time Opportunities
 
