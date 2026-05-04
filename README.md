@@ -39,7 +39,8 @@ Intelligent ticketing system with automated issue classification achieving 87% a
 - **Stack:** Laravel 12 API • Next.js 16 • Python ML • PostgreSQL
 - **Highlights:** ML auto-priority • SLA alerts • Real-time tracking
 - **Status:** Production Ready
-- **Repo:** [helpdesk-system-web](https://github.com/risuunava/helpdesk-system-web)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-helpdesk--system--web-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/helpdesk-system-web)
 
 ---
 
@@ -49,7 +50,8 @@ Intelligent ticketing system with automated issue classification achieving 87% a
 Modern, responsive website showcasing creative services and programs with integrated content management system.
 
 - **Stack:** Laravel • Tailwind CSS • Blade Template
-- **Repo:** [sumedang-ceative-center](https://github.com/risuunava/sumedang-ceative-center)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-sumedang--ceative--center-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/sumedang-ceative-center)
 
 ---
 
@@ -59,7 +61,8 @@ Modern, responsive website showcasing creative services and programs with integr
 Streamlined platform for managing IT support requests with efficient categorization and tracking capabilities.
 
 - **Stack:** Laravel • MySQL • Blade Template
-- **Repo:** [sariater-it-support](https://github.com/risuunava/sariater-it-support)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-sariater--it--support-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/sariater-it-support)
 
 ---
 
@@ -69,7 +72,8 @@ Streamlined platform for managing IT support requests with efficient categorizat
 Machine learning project analyzing Indonesian public service reviews using TF-IDF and Logistic Regression for sentiment classification.
 
 - **Stack:** Python • Machine Learning • NLP
-- **Repo:** [analisis-sentimen-komentar](https://github.com/risuunava/analisis-sentimen-komentar)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-analisis--sentimen-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/analisis-sentimen-komentar)
 
 ---
 
