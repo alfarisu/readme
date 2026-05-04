@@ -1,123 +1,88 @@
 # Muhammad Lazuardi Al-Farisi
 
-<div align="center">
-
-### Backend Engineer • Full Stack Developer • ML Specialist
-
-**Building intelligent, scalable systems**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-333?style=flat-square&logo=github)](https://github.com/risuunava)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=flat-square&logo=globe)](https://bit.ly/4lTYVZd)
-[![Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?style=flat-square&logo=google)](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
-
-</div>
-
----
-
-## 💡 About
-
-I build intelligent web applications and systems that solve real-world problems. Specialized in full-stack development with a focus on backend architecture, machine learning integration, and clean code practices.
-
-**What I Do:**
-- Backend development with Laravel & REST APIs
-- Full-stack web applications 
-- Machine learning integration for intelligent systems
-- IoT solutions & embedded systems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Machine Learning**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-512BD4?style=flat-square)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+<svg width="100%" viewBox="0 0 680 250" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(to bottom, var(--color-background-secondary) 0%, var(--color-background-primary) 100%);">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Decorative elements -->
+  <circle cx="80" cy="60" r="30" fill="#3b82f6" opacity="0.1"/>
+  <circle cx="600" cy="200" r="40" fill="#06b6d4" opacity="0.1"/>
+  
+  <!-- Main text -->
+  <text x="340" y="80" font-size="32" font-weight="600" text-anchor="middle" fill="var(--color-text-primary)" font-family="'Anthropic Sans', sans-serif">
+    Backend Engineer
+  </text>
+  
+  <text x="340" y="130" font-size="18" text-anchor="middle" fill="var(--color-text-secondary)" font-family="'Anthropic Sans', sans-serif">
+    Full Stack Developer • ML Specialist
+  </text>
+  
+  <!-- Status bar -->
+  <line x1="200" y1="155" x2="480" y2="155" stroke="url(#accent)" stroke-width="2"/>
+  
+  <!-- Description -->
+  <text x="340" y="190" font-size="14" text-anchor="middle" fill="var(--color-text-secondary)" font-family="'Anthropic Sans', sans-serif">
+    Building scalable systems with clean code
+  </text>
+  
+  <!-- Bottom indicator -->
+  <circle cx="340" cy="230" r="4" fill="#3b82f6"/>
+</svg>
 
 ---
 
-## 🚀 Recent Projects
+## About
+
+Backend engineer focused on building intelligent, scalable systems. Expertise in Laravel API development, machine learning integration, and full-stack applications.
+
+**Skills:** Laravel • REST APIs • React • Next.js • Python • Machine Learning • PostgreSQL • Docker
+
+---
+
+## Tech Stack
+
+| Backend | Frontend | ML & Data | Tools |
+|---------|----------|-----------|-------|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-512BD4?style=flat) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+
+---
+
+## Projects
 
 ### Helpdesk System Web
-**AI-powered IT ticketing with intelligent priority detection**
-
-Full-stack system that automatically classifies and prioritizes support tickets using machine learning. Achieves 87% accuracy with 40% faster ticket processing.
-
-- **Backend:** Laravel 12 API with PostgreSQL
-- **Frontend:** Next.js 16 with modern UI
-- **ML:** Python-based auto-priority using TF-IDF + Logistic Regression
-- **Features:** SLA tracking, real-time dashboards, role-based access
-
-→ [View on GitHub](https://github.com/risuunava/helpdesk-system-web)
-
----
+Intelligent IT ticketing with ML-powered priority detection. Achieves 87% accuracy in automatic classification.
+- **Tech:** Laravel 12 • Next.js 16 • Python ML • PostgreSQL
+- **[View on GitHub](https://github.com/risuunava/helpdesk-system-web)**
 
 ### Sumedang Creative Center
-**Digital platform for creative services**
+Digital platform for creative services. Responsive website with CMS and service catalog.
+- **Tech:** Laravel • Tailwind CSS • MySQL
+- **[View on GitHub](https://github.com/risuunava/sumedang-ceative-center)**
 
-Modern, responsive website serving as company profile and information portal for Sumedang's creative community. Features service catalog, program information, and community engagement tools.
-
-- **Tech:** Laravel, Tailwind CSS, MySQL
-- **Features:** Dynamic content management, SEO optimized, image gallery
-
-→ [View on GitHub](https://github.com/risuunava/sumedang-ceative-center)
-
----
-
-### IT Support Report Management
-**Incident tracking & support management system**
-
-Web application for efficient handling of IT support requests. Includes intelligent categorization, priority routing, and comprehensive analytics.
-
-- **Tech:** Laravel, MySQL, Blade Template
-- **Features:** Auto-routing, real-time tracking, detailed reporting
-
-→ [View on GitHub](https://github.com/risuunava/sariater-it-support)
-
----
+### IT Support Management System
+Incident tracking platform with auto-categorization and analytics.
+- **Tech:** Laravel • MySQL • Blade
+- **[View on GitHub](https://github.com/risuunava/sariater-it-support)**
 
 ### Sentiment Analysis - Public Service Reviews
-**NLP-based classification of Indonesian service reviews**
-
-Machine learning research project analyzing public service feedback. Uses natural language processing techniques to classify sentiment with high accuracy.
-
-- **Tech:** Python, scikit-learn, TF-IDF
-- **Methodology:** Text preprocessing, feature extraction, Logistic Regression
-- **Application:** Public service improvement insights
-
-→ [View on GitHub](https://github.com/risuunava/analisis-sentimen-komentar)
+NLP project analyzing Indonesian service reviews using TF-IDF and classification models.
+- **Tech:** Python • scikit-learn • NLTK
+- **[View on GitHub](https://github.com/risuunava/analisis-sentimen-komentar)**
 
 ---
 
-## 📞 Contact & Connect
+## Contact
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-risuunava-333?style=flat&logo=github)](https://github.com/risuunava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-3b82f6?style=flat&logo=globe)](https://bit.ly/4lTYVZd)
+[![Google Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?style=flat&logo=google)](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
-### Let's build something amazing together
-
-[**GitHub**](https://github.com/risuunava) — [**Portfolio**](https://bit.ly/4lTYVZd) — [**Google Skills**](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
-
-**Status:** Open for full-time opportunities, freelance projects, and collaboration  
+**Status:** Open for full-time roles, freelance projects, and collaboration  
 **Location:** Sumedang, West Java, Indonesia
-
-</div>
