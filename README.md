@@ -1,105 +1,68 @@
 # Muhammad Lazuardi Al-Farisi
 
-<p align="center">
-  <strong>Backend Developer • Full Stack Engineer • IoT Enthusiast</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/risuunava"><img alt="GitHub followers" src="https://img.shields.io/github/followers/risuunava?style=flat&label=Followers"></a>
-  <a href="https://github.com/risuunava?tab=repositories"><img alt="GitHub Repos" src="https://img.shields.io/badge/Repositories-16-blue?style=flat"></a>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat">
-</p>
+**Backend Developer | Full Stack Engineer | IoT Enthusiast**
 
 ---
 
 ## About
 
-Backend developer and full-stack engineer with expertise in building scalable web applications and IoT solutions. Currently focusing on machine learning integration, system architecture, and innovative problem-solving.
+Backend developer and full-stack engineer from Universitas Sebelas April, specializing in web applications and IoT solutions. I build scalable, maintainable systems with clean code and thoughtful architecture.
+
+**Current Focus:**
+- Full-stack web development with Laravel & modern frontend frameworks
+- Machine learning integration for intelligent systems
+- IT infrastructure & support automation
 
 ---
 
 ## Tech Stack
 
-| Category | Technologies |
-|----------|---|
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| **IoT & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+**Backend:** PHP • Laravel • MySQL • PostgreSQL • REST APIs
+
+**Frontend:** JavaScript • HTML/CSS • Tailwind CSS • React/Next.js
+
+**IoT & Tools:** Arduino • ESP8266/ESP32 • Python • Machine Learning
+
+**Platforms:** Git • Docker • Postman • Google Cloud
 
 ---
 
-## Featured Projects
+## Projects
 
-### 🎯 Helpdesk System Web
-**Full-stack IT helpdesk with ML-powered priority detection**
+### Helpdesk System Web
+Full-stack IT helpdesk ticketing system with ML-powered auto-priority detection. Built with Laravel 12 API, Next.js 16, and Python ML backend for intelligent issue classification (87% accuracy). Features SLA tracking, role-based access control, and automated workflows.
 
-Intelligent ticketing system with automated issue classification achieving 87% accuracy. Features SLA tracking, role-based access control, and comprehensive reporting.
-
-- **Stack:** Laravel 12 API • Next.js 16 • Python ML • PostgreSQL
-- **Highlights:** ML auto-priority • SLA alerts • Real-time tracking
-- **Status:** Production Ready
-- **Repo:** [helpdesk-system-web](https://github.com/risuunava/helpdesk-system-web)
+**Stack:** Laravel 12 • Next.js 16 • Python • Machine Learning • PostgreSQL
 
 ---
 
-### 🎨 Sumedang Creative Center
-**Company profile & digital information platform**
+### Sumedang Creative Center
+Company profile and digital information platform for Sumedang Creative Center. Modern, responsive website showcasing services and creative programs with content management system.
 
-Modern, responsive website showcasing creative services and programs with integrated content management system.
-
-- **Stack:** Laravel • Tailwind CSS • Blade Template
-- **Repo:** [sumedang-ceative-center](https://github.com/risuunava/sumedang-ceative-center)
+**Stack:** Laravel • Blade Template • Tailwind CSS
 
 ---
 
-### 🛠️ IT Support Report Management
-**Support ticket management system**
+### IT Support Report Management System
+Web-based system for managing IT support reports and technical incidents. Streamlines support request handling with efficient categorization, tracking, and reporting capabilities.
 
-Streamlined platform for managing IT support requests with efficient categorization and tracking capabilities.
-
-- **Stack:** Laravel • MySQL • Blade Template
-- **Repo:** [sariater-it-support](https://github.com/risuunava/sariater-it-support)
+**Stack:** Laravel • MySQL • Blade Template
 
 ---
 
-### 📊 Sentiment Analysis - Public Service Reviews
-**NLP-based review classification**
+### Sentiment Analysis - Public Service Reviews
+Machine learning project analyzing Indonesian public service reviews using NLP. Implements TF-IDF and Logistic Regression for sentiment classification on open data.
 
-Machine learning project analyzing Indonesian public service reviews using TF-IDF and Logistic Regression for sentiment classification.
-
-- **Stack:** Python • Machine Learning • NLP
-- **Repo:** [analisis-sentimen-komentar](https://github.com/risuunava/analisis-sentimen-komentar)
+**Stack:** Python • Machine Learning • NLP • TF-IDF
 
 ---
 
-## Experience
-
-- **Backend Development:** Laravel, REST APIs, database design & optimization
-- **Full Stack:** Frontend integration with Vue.js, React, and Next.js
-- **Machine Learning:** Python, NLP, sentiment analysis, data processing
-- **IoT Systems:** Arduino, ESP8266/ESP32, embedded systems
-- **System Architecture:** Scalable design, microservices, API development
-
----
-
-## Education
-
-**Universitas Sebelas April** | Computer Science / Informatics
-- Location: Sumedang, West Java, Indonesia
-
----
-
-## Connect & Get in Touch
+## Connect
 
 - **GitHub:** [@risuunava](https://github.com/risuunava)
 - **Portfolio:** [bit.ly/4lTYVZd](https://bit.ly/4lTYVZd)
-- **Google Skills:** [View Profile](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
-
-**Open for:** Collaboration • Freelance Projects • Full-time Opportunities
+- **Google Skills:** [Profile](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=risuunava&style=flat&color=blue&label=Views" alt="Profile views">
-</p>
+**Status:** Open for collaboration, freelance projects, and full-time opportunities
